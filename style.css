@@ -1,0 +1,37 @@
+.global-document {
+  background-color: lightblue;
+  display: flex;
+  height: 100vh;
+}
+
+.heading {
+  height: 1px;
+  width: 1px;
+  color: lightblue;
+  overflow: hidden;
+  margin: 0;
+  position: absolute;
+}
+
+.text {
+  font-size: 16pt;
+}
+
+.text, .input-field,
+.btn, .output {
+  display: block;
+  margin: 1vh auto;
+}
+
+.wrapper {
+  margin: auto;
+}
+
+.text {
+  width: fit-content;
+}
+
+.output {
+  text-align: center;
+  font-size: 14pt;
+}
