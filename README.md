@@ -1,4 +1,4 @@
-# lemur-palindrom-speedrun
+# [lemur-palindrom-speedrun](https://github.com/UniBreakfast/lemur-palindrom-speedrun)
 
 Task completed as quickly as possible.
 
